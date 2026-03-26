@@ -2,6 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "luma",
   "name": "Tyche",
+  "customDomain": "docs.tyche.com",
   "logo": {
     "dark": "/logo/logo.png",
     "light": "/logo/logo.png"
@@ -21,8 +22,8 @@
   "topbar": {
     "links": [
       {
-        "name": "Telegram",
-        "url": "https://t.me/polymarktestbot"
+        "name": "Community",
+        "url": "https://t.me/tyche_community"
       }
     ]
   },
@@ -82,8 +83,8 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/tyche",
-      "telegram": "https://t.me/polymarktestbot"
+      "x": "https://x.com/tyche_terminal",
+      "telegram": "https://t.me/tyche_community"
     }
   }
 }
